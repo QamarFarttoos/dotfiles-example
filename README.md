@@ -10,3 +10,5 @@ template for organizing and managing dot files.
 - `bash_settings.sh`: Configuration for the Bash shell.
 - `git-prompt.sh`: Custom Git prompt configuration.
 - `install.sh`: Script to set up symbolic links for the dot files.
+
+
